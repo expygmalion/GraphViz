@@ -1,6 +1,6 @@
-# MiniWasilni
+# GraphViz
 
-MiniWasilni is a comprehensive graph visualization and manipulation application for directed graphs, with both CLI and GUI interfaces. It's designed to efficiently create, visualize, and analyze city networks through various graph algorithms.
+GraphViz is a comprehensive graph visualization and manipulation application for directed graphs, with both CLI and GUI interfaces. It's designed to efficiently create, visualize, and analyze city networks through various graph algorithms.
 
 ## Features
 
@@ -113,12 +113,12 @@ make
 
 ### CLI Version
 ```bash
-./MiniWasilni
+./GraphViz
 ```
 
 ### GUI Version
 ```bash
-./MiniWasilniGUI
+./GraphVizGUI
 ```
 
 ## GUI Usage Guide
@@ -185,7 +185,7 @@ The application comes with sample graph files in the `data/` directory:
 
 ## Development
 
-MiniWasilni is built with a modular architecture:
+GraphViz is built with a modular architecture:
 - Graph class for core data structure
 - Traversal algorithms for graph exploration
 - Pathfinding algorithms for optimal routing
@@ -215,4 +215,4 @@ Here are some areas where we think you can contribute:
 
 ## License
 
-MiniWasilni is released under the MIT License. See the LICENSE file for details.
+GraphViz is released under the MIT License. See the LICENSE file for details.
